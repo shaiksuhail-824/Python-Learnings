@@ -1,0 +1,41 @@
+1.Anantapur
+2.Chittor
+3.EastGodavari
+4.Guntur
+5.Kadapa
+6.Krishna
+7.Kurnool
+8.Sri Potti Sri Ramulu Nellore
+9.Prakasam
+10.Srikakulam
+11.Visakhapatnam
+12.Vizianagaram
+13.West Godavari
+ New disticts:
+1.parrathipuram Manyam 
+       2.Alluri Sitharama Raju
+       3.Anakapalli
+       4.Kakinada
+       5.DR.BR Ambedkar konaseema
+       6.Eluru
+       7.NTR
+       8.Palnadu
+       9.Bapatla
+       10.Nandyal
+       11.Sri Sathya Sai
+       12.Annamayya
+       13.Tirupati
+ New disticts:
+1.parrathipuram Manyam 
+         2.Alluri Sitharama Raju
+         3.Anakapalli
+         4.Kakinada
+         5.DR.BR Ambedkar konaseema
+         6.Eluru
+         7.NTR
+         8.Palnadu
+         9.Bapatla
+         10.Nandyal
+         11.Sri Sathya Sai
+         12.Annamayya
+         13.Tirupati

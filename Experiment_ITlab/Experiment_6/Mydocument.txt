@@ -1,0 +1,4 @@
+#This course will cover the syllabus laid out by*CBSE  for class 12th for
+pyhton.
+#Our mentor will help the students to learn and revise the content of 
+Class 12th@ study hours
