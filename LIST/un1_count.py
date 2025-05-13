@@ -1,3 +1,4 @@
+#Write a program to find the number of times an element occurs in the list.
 l=[10,5,3,10,25,15,5,10,3]
 print(l)
 m=10

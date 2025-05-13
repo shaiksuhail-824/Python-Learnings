@@ -1,4 +1,5 @@
-def largest(n):
+#Write a function to return the second largest number from a list of numbers.
+def largest(n): 
     l=[]
     for i in range(0,n):
         element=int(input('Enter the element'))

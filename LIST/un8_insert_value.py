@@ -1,3 +1,6 @@
+#Write a program to read a list of elements.
+#Input an element from the user that has to be inserted in the list.
+#Also input the position at which it is to be inserted
 n=int(input('Enter the lenght'))
 l=[]
 for i in range(0,n):

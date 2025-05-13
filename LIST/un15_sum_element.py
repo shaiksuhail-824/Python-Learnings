@@ -1,3 +1,4 @@
+# Program to find sum of element  of given list
 li=input('Enter the elements ')
 le=len(li)
 i=0

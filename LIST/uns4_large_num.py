@@ -1,3 +1,4 @@
+#Write a function that returns the largest element of the list passed as parameter
 def largest(n):
     l=[]
     for i in range(0,n):
