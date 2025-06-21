@@ -1,0 +1,6 @@
+students_for_english=int(input())
+roll_number_of_students_english=set(map(int,input().split()))
+student_for_french=int(input())
+roll_number_of_students_french=set(map(int,input().split()))
+union=roll_number_of_students_english.union(roll_number_of_students_french)
+print(union.count())
